@@ -74,5 +74,15 @@ The main directories for each problem domain are:
 
  **N.B:** we will use PyTorch as our deep learning framework. Pytorch is the most widely framework in deep learning particularly in the research domain of AI. There are other frameworks like tensorflow and keras.
 
+ To begin, you need to create a virtual environment for our project. You can use any way availabel but I would recommend to use conda. You need to install anaconda or mini-conda to make conda package manage available to your system(computer). 
+
+ You can download anaconda or conda from their website: [download conda]("https://conda.io/projects/conda/en/stable/user-guide/install/download.html").
+
+ After installing conda, you can create virtual environment using this command. `conda create -n virtual_enviroment_name python=3.10` then activate the environment using this command: `conda activate environment_name` 
+
+ **Note:** we are using python version of 3.10. Use the same version to avoid struggling. After activating virtual environment, install required libraries which are in **requirements.txt** using this command `pip install -r requirements.txt`
+
+ **Now, Let's code**
+
 
 
