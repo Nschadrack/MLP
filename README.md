@@ -69,10 +69,10 @@ The main directories for each problem domain are:
  - **XOR:** contains the implementation of MLP to classify XOR result given two inputs
  - **Regression:** contains the implementation of MLP for regression problem
  - **Binary:** contains the implementation of MLP for binary classification
- - **Categoriacl:** contains the implementation of MLP for multi-class classification problem
+ - **Categorical:** contains the implementation of MLP for multi-class classification problem
 
 
- **N.B:** we will pyorch as our deep learning framework. Pytorch is the most widely framework in deep learning particularly in the research domain of AI. There are other frameworks like tensorflow and keras.
+ **N.B:** we will use PyTorch as our deep learning framework. Pytorch is the most widely framework in deep learning particularly in the research domain of AI. There are other frameworks like tensorflow and keras.
 
 
 
