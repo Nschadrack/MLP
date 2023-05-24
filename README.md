@@ -26,7 +26,7 @@ AI has a wide range of applications across various industries, including healthc
 
 **Our main focus is on deep learning which is the base of currently AI like NLP, Computer vision and Robotics**
 
-**Deep learning** starts with an artificial neuron or perceptron which was motivated by the human brain(biological neuron). The percetron receives several or many inputs and applies matrix multiplication with the random weights to those inputs and makes addition of the result with the basis. The result is passed through an activation function which introduces non-linearity in the perceptron. Action function helps perceptron to learn any relationship of any function by providing required parameters(weights). Without activation function, the perceptron behaves as linear model.
+**Deep learning** starts with an artificial neuron or perceptron which was motivated by the human brain(biological neuron). The percetron receives several or many inputs and applies matrix multiplication with the random weights to those inputs and makes addition of the result with the bias. The result is passed through an activation function which introduces non-linearity in the perceptron. Action function helps perceptron to learn any relationship of any function by providing required parameters(weights). Without activation function, the perceptron behaves as linear model.
 
 ### Mulit-Layer Perceptron(MLP) as a universal function approximator
 
